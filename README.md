@@ -1,4 +1,3 @@
-
 # Stock Market App
 
 This project is a Stock Market application built using Flutter. It allows users to search for stocks, view detailed information about specific stocks, and visualize stock price trends over different time ranges.
@@ -35,17 +34,17 @@ To get started with the project, follow these steps:
    
    git clone https://github.com/your-username/stock_market.git
    cd stock_market
-   
+  
 
 2. **Install dependencies**:
-   
+  
    flutter pub get
-   
+  
 
 3. **Run the app**:
-   
+  
    flutter run
-   
+  
 
 ## Dependencies
 
@@ -60,8 +59,6 @@ The project uses the following dependencies:
 
 The app communicates with a backend API hosted at `https://illuminate-production.up.railway.app/api`. The API provides endpoints for user authentication, stock search, stock details, and stock price graphs.
 
-## Screenshots
+## Video
 
-![Login Screen](screenshots/login_screen.png)
-![Search Screen](screenshots/search_screen.png)
-![Stock Detail Screen](screenshots/stock_detail_screen.png)
+[Watch the screen recording](assets/videos/screen%20record%20for%20stock%20market%20project.mp4)
