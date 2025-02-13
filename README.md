@@ -61,4 +61,4 @@ The app communicates with a backend API hosted at `https://illuminate-production
 
 ## Video
 
-[Watch the screen recording]([assets/videos/screen%20record%20for%20stock%20market%20project.mp4](https://github.com/DABBESHU/Stock-Market/blob/b4737edca8afbc3378116db6c883ae29457b53b7/assets/screen%20record%20for%20stock%20market%20project.mp4))
+[Watch the screen recording](https://github.com/DABBESHU/Stock-Market/blob/b4737edca8afbc3378116db6c883ae29457b53b7/assets/screen%20record%20for%20stock%20market%20project.mp4)
